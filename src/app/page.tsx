@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-        hi
+        this will be the login page
     </div>
   );
 }
